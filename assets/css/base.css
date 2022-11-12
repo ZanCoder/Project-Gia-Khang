@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.thwart {
+    margin: 5px 0 30px 740px;
+    border: 1px solid #ff7675;
+    width: 40px;
+}
